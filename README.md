@@ -7,8 +7,8 @@ Mi Legajo es 1732535.
 ![Unica foto que tenia :)](mifoto.jpeg)
 
 # Algunas cosas que me gustan:
-Me gusta mucho los videojuegos, en especial el CS y COD.
-Fanatico de las Zapatillas.
-Soy Hincha de Boca Junior's
-Musica escucho de todo tipo.
-Ver pelis o series.
+- Me gusta mucho los videojuegos, en especial el CS y COD.
+- Fanatico de las Zapatillas.
+- Soy Hincha de Boca Junior's
+- Musica escucho de todo tipo.
+- Ver pelis o series.

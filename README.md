@@ -4,7 +4,7 @@ Mis Datos Personales:
 Soy Junior Rodriguez estoy recursando la materia, xq la tuve que abandonar el año pasado, por algunos motivos personales.
 Tengo 25 años.
 Mi Legajo es 1732535.
-![mifoto.jpeg][mifoto]
+![mifoto.jpeg][mifoto.jpeg]
 
 # Algunas cosas que me gustan:
 Me gusta mucho los videojuegos, en especial el CS y COD.
